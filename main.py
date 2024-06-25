@@ -17,6 +17,9 @@ import pafy
 import plotly.express as px
 import webbrowser  
 import os  
+import nltk
+nltk.download('stopwords')
+
 
 
 def get_table_download_link(df,filename,text):
