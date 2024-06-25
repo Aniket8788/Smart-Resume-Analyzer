@@ -18,8 +18,9 @@ import plotly.express as px
 import webbrowser  
 import os  
 import nltk
-nltk.download('stopwords')
 from nltk.corpus import stopwords
+nltk.download('stopwords')
+
 
 
 
