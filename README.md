@@ -28,12 +28,12 @@ Check out the live demo: https://www.youtube.com/watch?v=3oNHNVa-kWE
 - Download XAMP or any other control panel, and turn on the Apache & SQL service.
 - To run app, write following command in CMD. or use any IDE.
   ```
-  streamlit run App.py
+  streamlit run main.py
   ```
 - `Uploaded_Resumes` folder is contaning the user's uploaded resumes.
-- `Classifier.py` is the main file which is containing a KNN Algorithm.
 
-- Admin side credentials is `naman_jain` and password is `naman@123`. 
+
+- Admin side credentials is `four_engineer` and password is `engineer@123`. 
 
 
 ## Just follow☝️ me and Star⭐ my repository 
